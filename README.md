@@ -1,1 +1,1 @@
-# GEOS472 Lab 1
+# GEOS 472 Lab 1
